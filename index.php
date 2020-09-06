@@ -1,3 +1,8 @@
+<?php
+	$con = mysqli_connect('localhost','root','');
+	$db = mysqli_select_db($con, 'search_bar') or die(mysqli_error($con));
+?>
+
 <!DOCTYPE html>
 <html class="no-js">
 
@@ -100,7 +105,7 @@
 				<div class="col-md-4 col-sm-4">
 					<!-- Logo section -->
 					<div class="logo">
-						<h1><a href="index.html"><i class="fa fa-shopping-cart color"></i> SwiftMart</a><span style="font-weight: bold; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">  BETA</span></h4><p style="font-size: small; font-style: italic; margin-left: 40px;margin-top: -20px; color:deepskyblue;">The African Amazon</p></h1>
+						<h1><a href="index.php"><i class="fa fa-shopping-cart color"></i> SwiftMart</a><span style="font-weight: bold; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">  BETA</span></h4><p style="font-size: small; font-style: italic; margin-left: 40px;margin-top: -20px; color:deepskyblue;">The African Amazon</p></h1>
 					</div>
 				</div>
 				<div class="col-md-6 col-md-offset-2 col-sm-5 col-sm-offset-3 hidden-xs">
@@ -114,6 +119,16 @@
 											<button class="btn btn-color" type="button"><i class="fa fa-search color"></i></button>
 										</span>
 							</div>
+							<?php
+	$query = mysqli_query($con, "SELECT * FROM laptops");
+	$num_rows = mysqli_fetch_assoc($query);
+	
+	print_r($num_rows);
+
+	$arraydata = implode(',',$num_rows);
+echo $arraydata;
+	
+?>
 						</form>
 					</div>
 				</div>
@@ -127,7 +142,7 @@
 				<div class="navy">
 					<ul>
 						<!-- Main menu -->
-						<li><a href="index.html">Home</a></li>
+						<li><a href="index.php">Home</a></li>
 						<li><a href="laptops.html">Laptops</a></li>
 						<li><a href="smartphones.html">Smartphones</a></li>
 						<li><a href="electronics.html">Electronics</a></li>
@@ -995,6 +1010,7 @@
 
 
 </script>
+
 
 
 </body>
