@@ -1,7 +1,4 @@
-<?php
-	$con = mysqli_connect('localhost','root','');
-	$db = mysqli_select_db($con, 'search_bar') or die(mysqli_error($con));
-?>
+
 
 <!DOCTYPE html>
 <html class="no-js">
@@ -111,25 +108,19 @@
 				<div class="col-md-6 col-md-offset-2 col-sm-5 col-sm-offset-3 hidden-xs">
 					<!-- Search Form -->
 					<div class="header-search">
-						<form>
+						<form action="search.php" method="post">
 							<!-- Input Group -->
 							<div class="input-group">
-								<input type="text" class="form-control" placeholder="Search...">
+								<input type="text" name="srch" class="form-control" placeholder="Search...">
 										<span class="input-group-btn">
-											<button class="btn btn-color" type="button"><i class="fa fa-search color"></i></button>
+										<button class="btn btn-color" type="submit" name="submit"><i class="fa fa-search color"></i></button>	
 										</span>
 							</div>
-							<?php
-	$query = mysqli_query($con, "SELECT * FROM laptops");
-	$num_rows = mysqli_fetch_assoc($query);
-	
-	print_r($num_rows);
 
-	$arraydata = implode(',',$num_rows);
-echo $arraydata;
-	
-?>
 						</form>
+	
+
+
 					</div>
 				</div>
 			</div>
