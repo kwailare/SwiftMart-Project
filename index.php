@@ -814,7 +814,7 @@
 				<div class="footer-columns-entry">
 					<div class="row">
 						<div class="col-md-3">
-							<a href="index.html"> <h1><i class="fa fa-shopping-cart color"></i> SwiftMart</h1></a>
+							<a href="index.php"> <h1><i class="fa fa-shopping-cart color"></i> SwiftMart</h1></a>
 							<div class="footer-description" style="font-style: italic;">...The Amazon Of Africa</div>
 							<div class="footer-address"><i class="fa fa-map-marker color"></i> Nigeria<br> <i class="fa fa-phone color"></i> Phone: +2347017305233<br> <i class="fa fa-envelope color"></i> Email: <a href="mailto:info@swiftmart.com">info@swiftmart.com</a><br>
 								<a target="_blank" href="http://swiftmart.com/"><b>www.swiftmart.com</b></a>
@@ -824,7 +824,7 @@
 						<div class="col-md-2 col-sm-4">
 							<h3 class="column-title">Customer Care</h3>
 							<ul class="column">
-								<li><a href="#">Terms & Condition</a></li>
+								<li><a href="Terms and conditions.html">Terms & Condition</a></li>
 								<li><a href="contact.html">Contact Us</a></li></ul>
 							<div class="clear"></div>
 						</div>
@@ -832,7 +832,7 @@
 						<div class="col-md-2 col-sm-4">
 							<h3 class="column-title">Shop Information</h3>
 							<ul class="column">
-								<li><a href="about.html">About SwiftMart</a></li>
+								<li><a href="about.html">About Company</a></li>
 								
 							</ul>
 							<div class="clear"></div>
@@ -857,8 +857,8 @@
 					<div class="footer-bottom-navigation">
 						<div class="cell-view">
 							<div class="footer-links">
-								<a href="search.php">Search</a>
-								<a href="#">Terms & Condition</a>
+								<a href="#srch">Search</a>
+								<a href="Terms and conditions.html">Terms & Condition</a>
 								<a href="about.html">About Us</a>
 								<a href="contact.html">Contact Us</a>
 							</div>
