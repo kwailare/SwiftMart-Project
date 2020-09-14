@@ -832,7 +832,7 @@
 						<div class="col-md-2 col-sm-4">
 							<h3 class="column-title">Shop Information</h3>
 							<ul class="column">
-								<li><a href="about.html">About Company</a></li>
+								<li><a href="about.html">About SwiftMart</a></li>
 								
 							</ul>
 							<div class="clear"></div>
@@ -857,7 +857,7 @@
 					<div class="footer-bottom-navigation">
 						<div class="cell-view">
 							<div class="footer-links">
-								<a href="#srch">Search</a>
+								<a href="search.php">Search</a>
 								<a href="#">Terms & Condition</a>
 								<a href="about.html">About Us</a>
 								<a href="contact.html">Contact Us</a>
