@@ -141,24 +141,43 @@
 		<div class="container inner">
 			<div class="row">
 				<div class="col-md-8">
+					<hr>
+				<?php 
+                            $Msg = "";
+                            if(isset($_GET['error']))
+                            {
+                                $Msg = " Please Fill in the Blanks ";
+                                echo '<div class="alert alert-danger">'.$Msg.'</div>';
+                            }
+
+                            if(isset($_GET['success']))
+                            {
+                                $Msg = " Your Message Has Been Sent ";
+                                echo '<div class="alert alert-success">'.$Msg.'</div>';
+                            }
+                        
+				?>
+						
 					<div class="row">
+						
 						<div class="Contact-Form">
-							<form class="leave-comment contact-form" method="post" action="#" id="cform" autocomplete="on">
+							<form class="leave-comment contact-form" method="post" action="process.php" id="cform" autocomplete="on">
 								<div class="Contact-us">
 									<div class="form-input col-md-4">
-										<input type="text" name="name" placeholder="Your Name" required>
+										<input type="text" name="Uname" placeholder="Your Name" required>
 									</div>
 									<div class="form-input col-md-4">
-										<input type="email" name="email" placeholder="Email" required>
+										<input type="email" name="E_mail" placeholder="Email" required>
 									</div>
 									<div class="form-input col-md-4">
-										<input type="text" name="contact_phone" placeholder="Phone">
+										<input type="text" name="Phone" placeholder="Phone">
 									</div>
 									<div class="form-input col-md-12">
-										<textarea class="txt-box textArea" name="message" cols="40" rows="7" id="messageTxt" placeholder="Message" spellcheck="true" required></textarea>
+										<textarea class="txt-box textArea" name="Mssg" cols="40" rows="7" id="messageTxt" placeholder="Message" spellcheck="true" required></textarea>
 									</div>
 									<div class="form-submit col-md-12">
-										<input type="submit" class="btn btn-custom-6" value="Send Message">
+									<button class="btn btn-info" name="btn-send"> Send Message</button>
+										<!-- <input type="submit" name="btn_send" class="btn btn-custom-6" value="Send Message"> -->
 									</div>
 								</div>
 							</form>
