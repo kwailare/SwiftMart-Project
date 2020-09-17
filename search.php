@@ -1,6 +1,6 @@
 <?php
 
-$con = new PDO("mysql:host=localhost;dbname=search_bar",'root','');
+$con = new PDO("mysql:host=localhost; dbname=search_bar", 'root','');
 
 if (isset($_POST["submit"])) {
 	$str = $_POST["srch"];

@@ -225,7 +225,7 @@
 	<div class="container">
 		<!-- Shopping items content -->
 		<div class="shopping-content">
-
+		<script data-ad-client="ca-pub-1490630956216003" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 			<!-- Block heading two -->
 			<div class="block-heading-two">
 				<h3><span>Popular items</span></h3>
