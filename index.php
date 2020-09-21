@@ -236,48 +236,49 @@
 					<!-- Shopping items -->
 					<div class="shopping-item">
 						<!-- Image -->
-						<a href="single-product.html"><img class="img-responsive" src="img/photos/Phones/iphone-11-pro.png" alt="" /></a>
+						<a href="iPhone 11 Pro.html"><img class="img-responsive" src="img/photos/Phones/Phone stores/NEW PHONES/ANKA PHONE STORE KADUNA/iPhone 11 Pro (2).jpg" alt="product" /></a>
 						<!-- Shopping item name / Heading -->
-						<h4><a href="single-product.html">iPhone</a><span class="color pull-right">&#8358;1000.00</span></h4>
+						<h4><a href="iPhone 11 Pro.html">iPhone 11 Pro</a><span class="color pull-right">&#8358;450,000</span></h4>
 						<div class="clearfix"></div>
 						<!-- Shopping item hover block & link -->
 						<div class="item-hover bg-color hidden-xs">
-							<a href="#">Details</a>
+							<a href="iPhone 11 Pro.html">Details</a>
 						</div>
+						<span class="hot-tag bg-red">HOT</span>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
 					<!-- Shopping items -->
 					<div class="shopping-item">
 						<!-- Image -->
-						<a href="single-product.html"><img class="img-responsive" src="img/photos/Phones/iphone-11-pro.png" alt="" /></a>
+						<a href="iPhone 11 Pro Max.html"><img class="img-responsive" src="img/photos/Phones/Phone stores/NEW PHONES/ANKA PHONE STORE KADUNA/iphone 11 Pro max.png" alt="" /></a>
 						<!-- Shopping item name / Heading -->
-						<h4><a href="single-product.html">iPhone</a><span class="color pull-right">&#8358;1000.00</span></h4>
+						<h4><a href="iPhone 11 Pro Max.html">iPhone 11 Pro Max</a><span class="color pull-right">&#8358;580,000</span></h4>
 						<div class="clearfix"></div>
 						<!-- Shopping item hover block & link -->
 						<div class="item-hover bg-color hidden-xs">
-							<a href="#">Details</a>
+							<a href="iPhone 11 Pro Max.html">Details</a>
 						</div>
 						
 						<!-- Hot tag -->
-						<span class="hot-tag bg-red">NEW</span>
+						<span class="hot-tag bg-red">HOT</span>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
 					<!-- Shopping items -->
 					<div class="shopping-item">
 						<!-- Image -->
-						<a href="single-product.html"><img class="img-responsive" src="img/photos/Phones/iphone-11-pro.png" alt="" /></a>
+						<a href="iPhone 11.html"><img class="img-responsive" src="img/photos/Phones/Phone stores/NEW PHONES/ANKA PHONE STORE KADUNA/iphone 11.jpg" alt="" /></a>
 						<!-- Shopping item name / Heading -->
-						<h4><a href="single-product.html">iPhone</a><span class="color pull-right">&#8358;1000.00</span></h4>
+						<h4><a href="iPhone 11.html">iPhone 11</a><span class="color pull-right">&#8358;380,000</span></h4>
 						<div class="clearfix"></div>
 						<!-- Shopping item hover block & link -->
 						<div class="item-hover bg-color hidden-xs">
-							<a href="#">Details</a>
+							<a href="iPhone 11.html">Details</a>
 						</div>
 						
 						<!-- Hot tag -->
-						<span class="hot-tag bg-red">NEW</span>
+						<span class="hot-tag bg-red">HOT</span>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
@@ -697,13 +698,8 @@
 						<div class="col-md-3">
 							<a href="index.php"> <h1><i class="fa fa-shopping-cart color"></i> SwiftMart</h1></a>
 							<div class="footer-description" style="font-style: italic;">...The Amazon Of Africa</div>
-<<<<<<< HEAD
-							<div class="footer-address"><i class="fa fa-map-marker color"></i> Nigeria<br> <i class="fa fa-phone color"></i> Phone: +2347017305233<br> <i class="fa fa-envelope color"></i> Email: <a href="mailto:info@swiftmart.com">info@swiftmart.com</a><br>
-								<a target="_blank" href="https://swiftmart.com.ng/"><b>www.swiftmart.com.ng</b></a>
-=======
 							<div class="footer-address"><i class="fa fa-map-marker color"></i> Nigeria<br> <i class="fa fa-phone color"></i> Phone: +2347017305233<br> <i class="fa fa-envelope color"></i> Email: <a href="mailto:info@swiftmart.com.ng">info@swiftmart.com.ng</a><br>
 								<a target="_blank" href="https://www.swiftmart.com.ng/"><b>www.swiftmart.com.ng</b></a>
->>>>>>> 932aa05f9c60ababcdbb29998c0dd6353eb7c4ee
 							</div>
 							<div class="clear"></div>
 						</div>
@@ -730,12 +726,7 @@
 							
 							<div class="clear"></div>
 						</div>
-						<div class="input-group">
-							<input type="text" class="form-control" placeholder="Search...">
-									<span class="input-group-btn">
-										<button class="btn btn-color" id="srch" type="button"><i class="fa fa-search color"></i></button>
-									</span>
-						</div>
+					
 					</div>
 				</div>
 
