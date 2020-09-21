@@ -1,6 +1,6 @@
 <?php
 
-$con = new PDO("mysql:host=localhost;dbname=search_bar",'root','');
+$con = new PDO("mysql:host=localhost; dbname=search_bar", 'root','');
 
 if (isset($_POST["submit"])) {
 	$str = $_POST["srch"];
@@ -82,7 +82,7 @@ if (isset($_POST["submit"])) {
 			<!-- Contact starts -->
 			<div class="tb-contact pull-left">
 				<!-- Email -->
-				<i class="fa fa-envelope color"></i> &nbsp; <a href="mailto:info@swiftmart.com">info@swiftmart.com</a>
+				<i class="fa fa-envelope color"></i> &nbsp; <a href="mailto:info@swiftmart.com.ng">info@swiftmart.com.ng</a>
 				&nbsp;&nbsp;
 				<!-- Phone -->
 				<i class="fa fa-phone color"></i> &nbsp; +2347017305233
@@ -126,7 +126,7 @@ if (isset($_POST["submit"])) {
 						<form action="search.php" method="post">
 							<!-- Input Group -->
 							<div class="input-group">
-								<input type="text" name="srch" class="form-control" placeholder="Search...">
+								<input type="text" name="srch" class="form-control" placeholder="Search..." autocomplete="on">
 										<span class="input-group-btn">
 										<button class="btn btn-color" type="submit" name="submit"><i class="fa fa-search color"></i></button>	
 										</span>
@@ -147,10 +147,10 @@ if (isset($_POST["submit"])) {
 					<ul>
 						<!-- Main menu -->
 						<li><a href="index.php">Home</a></li>
-						<li><a href="laptops.html">Laptops</a></li>
+						<!-- <li><a href="laptops.html">Laptops</a></li> -->
 						<li><a href="smartphones.html">Smartphones</a></li>
-						<li><a href="electronics.html">Electronics</a></li>
-						<li><a href="accessories.html">Accessories</a></li>
+						<!-- <li><a href="electronics.html">Electronics</a></li> -->
+						<!-- <li><a href="accessories.html">Accessories</a></li> -->
 						<li><a href="contact.php">Contact Us</a></li>
 					</ul>
 				</div>
@@ -224,18 +224,18 @@ if (isset($_POST["submit"])) {
 				<div class="footer-columns-entry">
 					<div class="row">
 						<div class="col-md-3">
-							<a href="index.html"> <h1><i class="fa fa-shopping-cart color"></i> SwiftMart</h1></a>
+							<a href="index.php"> <h1><i class="fa fa-shopping-cart color"></i> SwiftMart</h1></a>
 							<div class="footer-description" style="font-style: italic;">...The Amazon Of Africa</div>
 							<div class="footer-address"><i class="fa fa-map-marker color"></i> Nigeria<br> <i class="fa fa-phone color"></i> Phone: +2347017305233<br> <i class="fa fa-envelope color"></i> Email: <a href="mailto:info@swiftmart.com">info@swiftmart.com</a><br>
-								<a target="_blank" href="http://swiftmart.com/"><b>www.swiftmart.com</b></a>
+								<a target="_blank" href="https://www.swiftmart.com.ng/"><b>www.swiftmart.com.ng</b></a>
 							</div>
 							<div class="clear"></div>
 						</div>
 						<div class="col-md-2 col-sm-4">
 							<h3 class="column-title">Customer Care</h3>
 							<ul class="column">
-								<li><a href="#">Terms & Condition</a></li>
-								<li><a href="contact.html">Contact Us</a></li></ul>
+								<li><a href="Terms and conditions.html">Terms & Condition</a></li>
+								<li><a href="contact.php">Contact Us</a></li></ul>
 							<div class="clear"></div>
 						</div>
 						
@@ -267,10 +267,19 @@ if (isset($_POST["submit"])) {
 					<div class="footer-bottom-navigation">
 						<div class="cell-view">
 							<div class="footer-links">
-								<a href="#srch">Search</a>
-								<a href="#">Terms & Condition</a>
+							<form action="search.php" method="post">
+							<!-- Input Group -->
+							<div class="input-group">
+								<input type="text" name="srch" class="form-control" placeholder="Search..." autocomplete="off">
+										<span class="input-group-btn">
+										<button class="btn btn-color" type="submit" name="submit"><i class="fa fa-search color"></i></button>	
+										</span>
+							</div>
+
+						</form>
+								<a href="Terms and conditions.html">Terms & Condition</a>
 								<a href="about.html">About Us</a>
-								<a href="contact.html">Contact Us</a>
+								<a href="contact.php">Contact Us</a>
 							</div>
 							<div style="text-align: center;" class="copyright">Created by <h5>Wailcorp Dev. All right reserved</h5> </div>
 						</div>
