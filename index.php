@@ -236,7 +236,7 @@
 					<!-- Shopping items -->
 					<div class="shopping-item">
 						<!-- Image -->
-						<a href="iPhone 11 Pro.html"><img class="img-responsive" src="img/photos/Phones/Phone stores/NEW PHONES/ANKA PHONE STORE KADUNA/iPhone 11 Pro (2).jpg" alt="product" /></a>
+						<a href="iPhone 11 Pro.html"><img class="img-responsive" src="img/photos/Phones/Phone stores/NEW PHONES/ANKA PHONE STORE KADUNA/iPhone 11 Pro 300 by 300.jpg" alt="product" /></a>
 						<!-- Shopping item name / Heading -->
 						<h4><a href="iPhone 11 Pro.html">iPhone 11 Pro</a><span class="color pull-right">&#8358;450,000</span></h4>
 						<div class="clearfix"></div>
@@ -251,7 +251,7 @@
 					<!-- Shopping items -->
 					<div class="shopping-item">
 						<!-- Image -->
-						<a href="iPhone 11 Pro Max.html"><img class="img-responsive" src="img/photos/Phones/Phone stores/NEW PHONES/ANKA PHONE STORE KADUNA/iphone 11 Pro max.png" alt="" /></a>
+						<a href="iPhone 11 Pro Max.html"><img class="img-responsive" src="img/photos/Phones/Phone stores/NEW PHONES/ANKA PHONE STORE KADUNA/iphone 11 Pro max 300 by 300.png" alt="" /></a>
 						<!-- Shopping item name / Heading -->
 						<h4><a href="iPhone 11 Pro Max.html">iPhone 11 Pro Max</a><span class="color pull-right">&#8358;580,000</span></h4>
 						<div class="clearfix"></div>
@@ -268,7 +268,7 @@
 					<!-- Shopping items -->
 					<div class="shopping-item">
 						<!-- Image -->
-						<a href="iPhone 11.html"><img class="img-responsive" src="img/photos/Phones/Phone stores/NEW PHONES/ANKA PHONE STORE KADUNA/iphone 11.jpg" alt="" /></a>
+						<a href="iPhone 11.html"><img class="img-responsive" src="img/photos/Phones/Phone stores/NEW PHONES/ANKA PHONE STORE KADUNA/iPhone 11 300 by 300.jpg" alt="" /></a>
 						<!-- Shopping item name / Heading -->
 						<h4><a href="iPhone 11.html">iPhone 11</a><span class="color pull-right">&#8358;380,000</span></h4>
 						<div class="clearfix"></div>
@@ -285,13 +285,13 @@
 					<!-- Shopping items -->
 					<div class="shopping-item">
 						<!-- Image -->
-						<a href="single-product.html"><img class="img-responsive" src="img/photos/Phones/iphone-11-pro.png" alt="" /></a>
+						<a href="Infinix HOT 9 Play.html"><img class="img-responsive" src="img/photos/Phones/Phone stores/NEW PHONES/M&B SYNERGY COOMUNICATION LTD ABJ/Infinix Hot 9 Play 300 by 300.jpg" alt="" /></a>
 						<!-- Shopping item name / Heading -->
-						<h4><a href="single-product.html">iPhone</a><span class="color pull-right">&#8358;1000.00</span></h4>
+						<h4><a href="Infinix HOT 9 Play.html">Infinix HOT 9 Play</a><span class="color pull-right">&#8358;51,000</span></h4>
 						<div class="clearfix"></div>
 						<!-- Shopping item hover block & link -->
 						<div class="item-hover bg-color hidden-xs">
-							<a href="#">Details</a>
+							<a href="Infinix HOT 9 Play.html">Details</a>
 						</div>
 						
 						<!-- Hot tag -->
@@ -302,13 +302,13 @@
 					<!-- Shopping items -->
 					<div class="shopping-item">
 						<!-- Image -->
-						<a href="single-product.html"><img class="img-responsive" src="img/photos/Accessories/Airpods.jpeg" alt="" /></a>
+						<a href="Samsung Galaxy M11.html"><img class="img-responsive" src="img/photos/Phones/Phone stores/NEW PHONES/M&B SYNERGY COOMUNICATION LTD ABJ/Samsung M11 300 by 300.jpg" alt="product" /></a>
 						<!-- Shopping item name / Heading -->
-						<h4><a href="single-product.html">Airpods</a><span class="color pull-right">&#8358;1000.00</span></h4>
+						<h4><a href="Samsung Galaxy M11.html">Samsung Galaxy M11</a><span class="color pull-right">&#8358;63,000</span></h4>
 						<div class="clearfix"></div>
 						<!-- Shopping item hover block & link -->
 						<div class="item-hover bg-color hidden-xs">
-							<a href="#">Details</a>
+							<a href="Samsung Galaxy M11.html">Details</a>
 						</div>
 						
 						<!-- Hot tag -->
@@ -319,13 +319,13 @@
 					<!-- Shopping items -->
 					<div class="shopping-item">
 						<!-- Image -->
-						<a href="single-product.html"><img class="img-responsive" src="img/photos/Accessories/Airpods.jpeg" alt="" /></a>
+						<a href="Tecno Camon 15.html"><img class="img-responsive" src="img/photos/Phones/Phone stores/NEW PHONES/M&B SYNERGY COOMUNICATION LTD ABJ/Camon 15 300 by 300.jpg" alt="" /></a>
 						<!-- Shopping item name / Heading -->
-						<h4><a href="single-product.html">Airpods</a><span class="color pull-right">&#8358;1000.00</span></h4>
+						<h4><a href="Tecno Camon 15.html">Tecno Camon 15</a><span class="color pull-right">&#8358;68,000</span></h4>
 						<div class="clearfix"></div>
 						<!-- Shopping item hover block & link -->
 						<div class="item-hover bg-color hidden-xs">
-							<a href="#">Details</a>
+							<a href="Tecno Camon 15.html">Details</a>
 						</div>
 						
 						<!-- Hot tag -->
@@ -336,13 +336,13 @@
 					<!-- Shopping items -->
 					<div class="shopping-item">
 						<!-- Image -->
-						<a href="single-product.html"><img class="img-responsive" src="img/photos/Accessories/Airpods.jpeg" alt="" /></a>
+						<a href="Samsung Galaxy A31.html"><img class="img-responsive" src="img/photos/Phones/Phone stores/NEW PHONES/M&B SYNERGY COOMUNICATION LTD ABJ/Samsung Galaxy A31 300 by 300.jpg" alt="" /></a>
 						<!-- Shopping item name / Heading -->
-						<h4><a href="single-product.html">Airpods</a><span class="color pull-right">&#8358;1000.00</span></h4>
+						<h4><a href="Samsung Galaxy A31.html">Samsung A31</a><span class="color pull-right">&#8358;105,000</span></h4>
 						<div class="clearfix"></div>
 						<!-- Shopping item hover block & link -->
 						<div class="item-hover bg-color hidden-xs">
-							<a href="#">Details</a>
+							<a href="Samsung Galaxy A31.html">Details</a>
 						</div>
 						
 						<!-- Hot tag -->
@@ -353,13 +353,13 @@
 					<!-- Shopping items -->
 					<div class="shopping-item">
 						<!-- Image -->
-						<a href="single-product.html"><img class="img-responsive" src="img/photos/Accessories/Airpods.jpeg" alt="" /></a>
+						<a href="Infinix Note 7 64ROM+4RAM.html"><img class="img-responsive" src="img/photos/Phones/Phone stores/NEW PHONES/M&B SYNERGY COOMUNICATION LTD ABJ/Infinix Note 7 128ROM+6RAM 300 by 300.jpg" alt="" /></a>
 						<!-- Shopping item name / Heading -->
-						<h4><a href="single-product.html">Airpods</a><span class="color pull-right">&#8358;1000.00</span></h4>
+						<h4><a href="Infinix Note 7 64ROM+4RAM.html">Infinix Note 7 64ROM+4RAM</a><span class="color pull-right">&#8358;73,000</span></h4>
 						<div class="clearfix"></div>
 						<!-- Shopping item hover block & link -->
 						<div class="item-hover bg-color hidden-xs">
-							<a href="#">Details</a>
+							<a href="Infinix Note 7 64ROM+4RAM.html">Details</a>
 						</div>
 						
 						<!-- Hot tag -->
@@ -370,13 +370,13 @@
 					<!-- Shopping items -->
 					<div class="shopping-item">
 						<!-- Image -->
-						<a href="single-product.html"><img class="img-responsive" src="img/photos/Electronics/cannon.jpg" alt="" /></a>
+						<a href="Tecno Spark 5 32ROM+2RAM.html"><img class="img-responsive" src="img/photos/Phones/Phone stores/NEW PHONES/M&B SYNERGY COOMUNICATION LTD ABJ/Tecno Spark 5 300 by 300.jpg" alt="" /></a>
 						<!-- Shopping item name / Heading -->
-						<h4><a href="single-product.html">Canon</a><span class="color pull-right">&#8358;1000.00</span></h4>
+						<h4><a href="Tecno Spark 5 32ROM+2RAM.html">Tecno Spark 5 32ROM+2RAM</a><span class="color pull-right">&#8358;50,000</span></h4>
 						<div class="clearfix"></div>
 						<!-- Shopping item hover block & link -->
 						<div class="item-hover bg-color hidden-xs">
-							<a href="#">Details</a>
+							<a href="Tecno Spark 5 32ROM+2RAM.html">Details</a>
 						</div>
 						
 						<!-- Hot tag -->
@@ -387,13 +387,13 @@
 					<!-- Shopping items -->
 					<div class="shopping-item">
 						<!-- Image -->
-						<a href="single-product.html"><img class="img-responsive" src="img/photos/Electronics/cannon.jpg" alt="" /></a>
+						<a href="Samsung Galaxy Tab A 8 inches.html"><img class="img-responsive" src="img/photos/Phones/Phone stores/NEW PHONES/M&B SYNERGY COOMUNICATION LTD ABJ/Samsung Galaxy Tab A 300 by 300.jpg" alt="" /></a>
 						<!-- Shopping item name / Heading -->
-						<h4><a href="single-product.html">Canon</a><span class="color pull-right">&#8358;1000.00</span></h4>
+						<h4><a href="Samsung Galaxy Tab A 8 inches.html">Samsung Galaxy Tab A 8 inches</a><span class="color pull-right">&#8358;70,000</span></h4>
 						<div class="clearfix"></div>
 						<!-- Shopping item hover block & link -->
 						<div class="item-hover bg-color hidden-xs">
-							<a href="#">Details</a>
+							<a href="Samsung Galaxy Tab A 8 inches.html">Details</a>
 						</div>
 						
 						<!-- Hot tag -->
@@ -404,13 +404,13 @@
 					<!-- Shopping items -->
 					<div class="shopping-item">
 						<!-- Image -->
-						<a href="single-product.html"><img class="img-responsive" src="img/photos/Electronics/cannon.jpg" alt="" /></a>
+						<a href="Infinix S5 128ROM+6RAM.html"><img class="img-responsive" src="img/photos/Phones/Phone stores/NEW PHONES/M&B SYNERGY COOMUNICATION LTD ABJ/Infinix s5  PRO 128ROM +6RAM 300 by 300.jpg" alt="" /></a>
 						<!-- Shopping item name / Heading -->
-						<h4><a href="single-product.html">Canon</a><span class="color pull-right">&#8358;1000.00</span></h4>
+						<h4><a href="Infinix S5 128ROM+6RAM.html">Infinix S5 Pro 128ROM+6RAM</a><span class="color pull-right">&#8358;92,000</span></h4>
 						<div class="clearfix"></div>
 						<!-- Shopping item hover block & link -->
 						<div class="item-hover bg-color hidden-xs">
-							<a href="#">Details</a>
+							<a href="Infinix S5 128ROM+6RAM.html">Details</a>
 						</div>
 						
 						<!-- Hot tag -->
@@ -421,13 +421,13 @@
 					<!-- Shopping items -->
 					<div class="shopping-item">
 						<!-- Image -->
-						<a href="single-product.html"><img class="img-responsive" src="img/photos/Electronics/cannon.jpg" alt="" /></a>
+						<a href="Tecno Pouvoir 4 Pro 128ROM+6RAM.html"><img class="img-responsive" src="img/photos/Phones/Phone stores/NEW PHONES/M&B SYNERGY COOMUNICATION LTD ABJ/Tecno Pouvoir 300 by 300.jpg" alt="" /></a>
 						<!-- Shopping item name / Heading -->
-						<h4><a href="single-product.html">Canon</a><span class="color pull-right">&#8358;1000.00</span></h4>
+						<h4><a href="Tecno Pouvoir 4 Pro 128ROM+6RAM.html">Tecno Pouvoir 4 Pro 128ROM+6RAM</a><span class="color pull-right">&#8358;77,000</span></h4>
 						<div class="clearfix"></div>
 						<!-- Shopping item hover block & link -->
 						<div class="item-hover bg-color hidden-xs">
-							<a href="#">Details</a>
+							<a href="Tecno Pouvoir 4 Pro 128ROM+6RAM.html">Details</a>
 						</div>
 						
 						<!-- Hot tag -->
@@ -476,16 +476,16 @@
 
 
 												<figure>
-													<a href="#">
-														<img src="img/photos/Accessories/Gimbal.jpg" class="img-responsive" alt="T_2_front">
+													<a href="Infinix Smart 4.html">
+														<img src="img/photos/Phones/Phone stores/NEW PHONES/M&B SYNERGY COOMUNICATION LTD ABJ/Infinix Smart 4 300 by 300.jpg" class="img-responsive" alt="T_2_front">
 													</a>
-													<figcaption><span class="amount">&#8358;1000.00</span></figcaption>
+													<figcaption><span class="amount">&#8358;38,500</span></figcaption>
 												</figure>
 
-												<h4 class="title"><a href="#">Gimbal</a></h4>
+												<h4 class="title"><a href="Infinix Smart 4.html">Infinix Smart 4</a></h4>
 
 
-												<a href="#" class="button-add-to-cart">Details</a>
+												<a href="Infinix Smart 4.html" class="button-add-to-cart">Details</a>
 											</article>
 
 										</div>
@@ -496,17 +496,17 @@
 
 
 												<figure>
-													<a href="#">
-														<img src="img/photos/Electronics/nikon.jpg" class="img-responsive " alt="T_5_front">
+													<a href="Samsung Galaxy M11.html">
+														<img src="img/photos/Phones/Phone stores/NEW PHONES/M&B SYNERGY COOMUNICATION LTD ABJ/Samsung M11 300 by 300.jpg" class="img-responsive " alt="T_5_front">
 													</a>
-													<figcaption><span class="amount">&#8358;1000.00</span></figcaption>
+													<figcaption><span class="amount">&#8358;63,000</span></figcaption>
 												</figure>
 
 
-												<h4 class="title"><a href="#">Canon</a></h4>
+												<h4 class="title"><a href="Samsung Galaxy M11.html">Samsung Galaxy M11</a></h4>
 
 
-												<a href="#" class="button-add-to-cart">Details</a>
+												<a href="Samsung Galaxy M11.html" class="button-add-to-cart">Details</a>
 											</article>
 
 										</div>
@@ -517,19 +517,19 @@
 
 
 												<figure>
-													<a href="#">
-														<img src="img/photos/Electronics/xbox.png" class="img-responsive" alt="hoodie_2_front">
+													<a href="iPhone 11.html">
+														<img src="img/photos/Phones/Phone stores/NEW PHONES/ANKA PHONE STORE KADUNA/iPhone 11 300 by 300.jpg" class="img-responsive" alt="hoodie_2_front">
 													</a>
-													<figcaption><span class="amount">&#8358;1000.00</span></figcaption>
+													<figcaption><span class="amount">&#8358;380,000</span></figcaption>
 												</figure>
 
 
 
 
-												<h4 class="title"><a href="#">Xbox 360</a></h4>
+												<h4 class="title"><a href="iPhone 11.html">iPhone 11 128GB</a></h4>
 
 
-												<a href="#" class="button-add-to-cart">Details</a>
+												<a href="iPhone 11.html" class="button-add-to-cart">Details</a>
 											</article>
 
 										</div>
@@ -540,20 +540,20 @@
 
 
 												<figure>
-													<a href="#">
-														<img src="img/photos/Pc/acer.png" class="img-responsive" alt="T_4_front">
+													<a href="Infinix HOT 9 Play.html">
+														<img src="img/photos/Phones/Phone stores/NEW PHONES/M&B SYNERGY COOMUNICATION LTD ABJ/Infinix Hot 9 Play 300 by 300.jpg" class="img-responsive" alt="T_4_front">
 													</a>
 													<figcaption>
-														<span class="amount">&#8358;1000.00</span></figcaption>
+														<span class="amount">&#8358;51,000</span></figcaption>
 												</figure>
 
 
 
 
-												<h4 class="title"><a href="#">Acer</a></h4>
+												<h4 class="title"><a href="Infinix HOT 9 Play.html">Infinix HOT 9 Play</a></h4>
 
 
-												<a href="#" class="button-add-to-cart">Details</a>
+												<a href="Infinix HOT 9 Play.html" class="button-add-to-cart">Details</a>
 											</article>
 
 										</div>
@@ -564,19 +564,19 @@
 
 
 												<figure>
-													<a href="#">
-														<img src="img/photos/Phones/huaweix.jpg" class="img-responsive" alt="T_7_front">
+													<a href="Tecno Pouvoir 4 Pro 128ROM+6RAM.html">
+														<img src="img/photos/Phones/Phone stores/NEW PHONES/M&B SYNERGY COOMUNICATION LTD ABJ/Tecno Pouvoir 300 by 300.jpg" class="img-responsive" alt="T_7_front">
 													</a>
-													<figcaption><span class="amount">&#8358;1000.00</span></figcaption>
+													<figcaption><span class="amount">&#8358;77,000</span></figcaption>
 												</figure>
 
 
 
 
-												<h4 class="title"><a href="#">Huawei p30 pro</a></h4>
+												<h4 class="title"><a href="Tecno Pouvoir 4 Pro 128ROM+6RAM.html">Tecno Pouvoir 4 Pro 128ROM+6RAM</a></h4>
 
 
-												<a href="#" class="button-add-to-cart">Details</a>
+												<a href="Tecno Pouvoir 4 Pro 128ROM+6RAM.html" class="button-add-to-cart">Details</a>
 											</article>
 
 										</div>
@@ -587,19 +587,19 @@
 
 
 												<figure>
-													<a href="#">
-														<img src="img/photos/Accessories/Mic.jpg" class="img-responsive" alt="T_6_front">
+													<a href="Samsung Galaxy A31.html">
+														<img src="img/photos/Phones/Phone stores/NEW PHONES/M&B SYNERGY COOMUNICATION LTD ABJ/Samsung Galaxy A31 300 by 300.jpg" class="img-responsive" alt="T_6_front">
 													</a>
-													<figcaption><span class="amount">&#8358;1000.00</span></figcaption>
+													<figcaption><span class="amount">&#8358;105,000</span></figcaption>
 												</figure>
 
 
 
 
-												<h4 class="title"><a href="#">Microphone</a></h4>
+												<h4 class="title"><a href="Samsung Galaxy A31.html">Samsung Galaxy A31.html</a></h4>
 
 
-												<a href="#" class="button-add-to-cart">Details</a>
+												<a href="Samsung Galaxy A31.html" class="button-add-to-cart">Details</a>
 											</article>
 
 										</div>
@@ -610,19 +610,19 @@
 
 
 												<figure>
-													<a href="#">
-														<img src="img/photos/Accessories/Bluetooth.jpg" class="img-responsive" alt="hoodie_4_front">
+													<a href="Infinix Note 7 128ROM+6RAM.html">
+														<img src="img/photos/Phones/Phone stores/NEW PHONES/M&B SYNERGY COOMUNICATION LTD ABJ/Infinix Note 7 128ROM+6RAM 300 by 300.jpg" class="img-responsive" alt="hoodie_4_front">
 													</a>
-													<figcaption><span class="amount">&#8358;1000.00</span></figcaption>
+													<figcaption><span class="amount">&#8358;88,000</span></figcaption>
 												</figure>
 
 
 
 
-												<h4 class="title"><a href="#">Bluetooth</a></h4>
+												<h4 class="title"><a href="Infinix Note 7 128ROM+6RAM.html">Infinix Note 7 128ROM+6RAM</a></h4>
 
 
-												<a href="#" class="button-add-to-cart">Details</a>
+												<a href="Infinix Note 7 128ROM+6RAM.html" class="button-add-to-cart">Details</a>
 											</article>
 
 										</div>
@@ -633,19 +633,19 @@
 
 
 												<figure>
-													<a href="#">
-														<img src="img/photos/Electronics/PS5.png" class="img-responsive" alt="hoodie_3_front">
+													<a href="Tecno POP 3 Plus.html">
+														<img src="img/photos/Phones/Phone stores/NEW PHONES/M&B SYNERGY COOMUNICATION LTD ABJ/Tecno POP 3 Plus 300 by 300.jpg" class="img-responsive" alt="hoodie_3_front">
 													</a>
-													<figcaption><span class="amount">&#8358;1000.00</span></figcaption>
+													<figcaption><span class="amount">&#8358;37,000</span></figcaption>
 												</figure>
 
 
 
 
-												<h4 class="title"><a href="#">PS5</a></h4>
+												<h4 class="title"><a href="Tecno POP 3 Plus.html">Tecno POP 3 Plus</a></h4>
 
 
-												<a href="#" class="button-add-to-cart">Details</a>
+												<a href="Tecno POP 3 Plus.html" class="button-add-to-cart">Details</a>
 											</article>
 
 										</div>
