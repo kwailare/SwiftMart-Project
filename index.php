@@ -268,7 +268,7 @@
 					<!-- Shopping items -->
 					<div class="shopping-item">
 						<!-- Image -->
-						<a href="iPhone 11.html"><img class="img-responsive" src="img/photos/Phones/Phone stores/NEW PHONES/ANKA PHONE STORE KADUNA/iphone 11.jpg" alt="" /></a>
+						<a href="iPhone 11.html"><img class="img-responsive" src="img/photos/Phones/Phone stores/NEW PHONES/ANKA PHONE STORE KADUNA/iPhone 11.jpg" alt="" /></a>
 						<!-- Shopping item name / Heading -->
 						<h4><a href="iPhone 11.html">iPhone 11</a><span class="color pull-right">&#8358;380,000</span></h4>
 						<div class="clearfix"></div>
