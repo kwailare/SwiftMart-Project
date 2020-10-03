@@ -12,6 +12,7 @@
 
 	<!-- Fav icon -->
 	<link rel="shortcut icon" href="img/favicon_io/favicon.ico">
+	<script data-ad-client="ca-pub-1488519487676853" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 	<!-- Font -->
 	<link href='https://fonts.googleapis.com/css?family=Lato:400,400italic,900,700,700italic,300' rel='stylesheet' type='text/css'>
@@ -135,7 +136,7 @@
 						<!-- Main menu -->
 						<li><a href="index.php">Home</a></li>
 						<!-- <li><a href="laptops.html">Laptops</a></li> -->
-						<li><a href="smartphones.html">Smartphones</a></li>
+						<li><a href="smartphones.html">Phones & Tablets</a></li>
 						<!-- <li><a href="electronics.html">Electronics</a></li> -->
 						<!-- <li><a href="accessories.html">Accessories</a></li> -->
 						<li><a href="contact.php">Contact Us</a></li>
