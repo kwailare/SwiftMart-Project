@@ -4,7 +4,7 @@
 <html class="no-js">
 
 <head>
-	<title>Homepage | SwiftMart</title>
+	<title>Homepage | Afrizon Mall</title>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="description" content="">
@@ -103,7 +103,7 @@
 				<div class="col-md-4 col-sm-4">
 					<!-- Logo section -->
 					<div class="logo">
-						<h1><a href="index.php"><i class="fa fa-shopping-cart color"></i> SwiftMart</a><span style="font-weight: bold; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">  BETA</span></h4><p style="font-size: small; font-style: italic; margin-left: 40px;margin-top: -20px; color:deepskyblue;">The African Amazon</p></h1>
+						<h1><a href="index.php"><i class="fa fa-shopping-cart color"></i> Afrizon Mall</a><span style="font-weight: bold; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">  BETA</span></h4><p style="font-size: small; font-style: italic; margin-left: 40px;margin-top: -20px; color:deepskyblue;">...The African Amazon</p></h1>
 					</div>
 				</div>
 				<div class="col-md-6 col-md-offset-2 col-sm-5 col-sm-offset-3 hidden-xs">
@@ -697,10 +697,10 @@
 				<div class="footer-columns-entry">
 					<div class="row">
 						<div class="col-md-3">
-							<a href="index.php"> <h1><i class="fa fa-shopping-cart color"></i> SwiftMart</h1></a>
+							<a href="index.php"> <h1><i class="fa fa-shopping-cart color"></i> Afrizon Mall</h1></a>
 							<div class="footer-description" style="font-style: italic;">...The Amazon Of Africa</div>
 							<div class="footer-address"><i class="fa fa-map-marker color"></i> Nigeria<br> <i class="fa fa-phone color"></i> Phone: +2347017305233<br> <i class="fa fa-envelope color"></i> Email: <a href="mailto:info@swiftmart.com.ng">info@swiftmart.com.ng</a><br>
-								<a target="_blank" href="https://www.swiftmart.com.ng/"><b>www.swiftmart.com.ng</b></a>
+								<a target="_blank" href="https://www.swiftmart.com.ng/"><b>www.AfrizonMall.com</b></a>
 							</div>
 							<div class="clear"></div>
 						</div>
