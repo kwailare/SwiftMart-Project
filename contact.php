@@ -115,7 +115,6 @@
 						<li><a href="smartphones.html">Smartphones</a></li>
 						<!-- <li><a href="electronics.html">Electronics</a></li> -->
 						<!-- <li><a href="accessories.html">Accessories</a></li> -->
-						<li><a href="contact.php">Contact Us</a></li>
 					</ul>
 				</div>
 			</div>
